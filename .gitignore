@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Authentication files (DO NOT COMMIT)
+auth.json
+auth-meta.json
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+
+# Temp files
+tmp/
+*.html
+debug_*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+*.js.map
